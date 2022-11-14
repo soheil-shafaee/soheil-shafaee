@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @soheil-shafaee
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning PYTHON, MATH
+
 
 
 <!---
