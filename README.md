@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with Docker
 - 💬 Ask me about life
-- 📫 How to reach me: [Instagram](www.instagram.com/soheil_shafaee76/)
+- 📫 How to reach me: [Instagram](www.instagram.com/soheil_shafaee76)
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I'm very happy!!
