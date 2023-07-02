@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soheil-shafaee&label=Profile%20views&color=0e75b6&style=flat" alt="soheil-shafaee" /> </p>
 
-- 🔭 I’m currently working on [Tic Tac Toe](https://github.com/soheil-shafaee/Habit)
+- 🔭 I’m currently working on [Habit](https://github.com/soheil-shafaee/Habit)
 
 - 🌱 I’m currently learning **Django course**
 
