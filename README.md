@@ -5,14 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soheil-shafaee&label=Profile%20views&color=0e75b6&style=flat" alt="soheil-shafaee" /> </p>
 
-- 🔭 I’m currently working on [Habit](https://github.com/soheil-shafaee/Habit)
-
-- 🌱 I’m currently learning **Django course**
-
-- 💬 Ask me about **life**
-
-- ⚡ Fun fact **I'm very happy!!😂**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/soheil_shafaee76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soheil_shafaee76" height="30" width="40" /></a>
