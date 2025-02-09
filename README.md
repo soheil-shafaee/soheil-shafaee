@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Soheil Shafaee Tilaki</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soheil-shafaee" alt="soheil-shafaee" /></a> </p>
-
 - 📫 How to reach me **soheil.shafaee.6200@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
